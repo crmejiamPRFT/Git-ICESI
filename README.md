@@ -1,4 +1,4 @@
-# Git-ICESI
+# Git-talk-practice-PRFT
 
 ## Workshop
 
